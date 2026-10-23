@@ -1,16 +1,33 @@
-## Hi there 👋
+##  ¡Hola, soy Antón Faraldo Mosquera!👋
 
-<!--
-**antonfaraldo/antonfaraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2º año del **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [Liceo La Paz](https://www.liceolapaz.com/) (A Coruña).
 
-Here are some ideas to get you started:
+---
+### 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando **2º DAM** (Desarrollo de Aplicaciones Multiplataforma).
+- 💼 Experiencia como **Desarrollador Web en Prácticas** en *Álvarez, Deporte y Tiempo Libre / Alsernet*.
+- 🌐 Estudiando **Inglés B2** en la Escuela Oficial de Idiomas (EOI) de A Coruña.
+- 📜 Certificado en *Gestión de documentación técnica con GitHub y Markdown* (OpenWebinars).
+- 📍 A Coruña, Galicia, España.
+
+---
+### 🛠️ Tecnologías y Herramientas
+
+---
+### 📂 Proyectos Destacados
+
+---
+
+### 📊 Mis estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antonfaraldo&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Antón" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonfaraldo&layout=compact&theme=radical" alt="Lenguajes más usados" height="165"/>
+</div>
+
+---
+### 📬 Conecta conmigo
+
+- **LinkedIn:** [linkedin.com/in/antonfaraldomosquera](https://www.linkedin.com/in/antonfaraldomosquera/)
+- **Email:** [anton.estudios.11@gmail.com](mailto:anton.estudios.11@gmail.com)
