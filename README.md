@@ -1,6 +1,6 @@
 ##  ¡Hola, soy Antón Faraldo Mosquera!👋
 
-Estudiante de 2º año del **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el [Liceo La Paz](https://www.liceolapaz.com/) (A Coruña).
+Estudiante de 2º año del **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el [Liceo La Paz](https://www.liceolapaz.com/) (A Coruña).
 
 ---
 ### 🚀 Sobre mí
